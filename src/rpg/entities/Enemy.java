@@ -4,6 +4,7 @@ import rpg.enums.Stats;
 import java.util.HashMap;
 
 public class Enemy {
+
     private String name;
     private HashMap<Stats, Integer> stats;
 
